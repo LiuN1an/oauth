@@ -1,0 +1,22 @@
+{
+  "name": "oauth",
+  "version": "1.0.0",
+  "description": "Based on openid-client, take advantage of search params of state to customize callback url",
+  "main": "oauth-core.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LiuN1an/oauth.git"
+  },
+  "author": "PeterH",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LiuN1an/oauth/issues"
+  },
+  "homepage": "https://github.com/LiuN1an/oauth#readme",
+  "dependencies": {
+    "openid-client": "^5.1.10"
+  }
+}
